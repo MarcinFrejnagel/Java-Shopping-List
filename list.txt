@@ -1,0 +1,13 @@
+Food:
+bread
+butter
+milk
+cheese
+Chemicals:
+soap
+washing liquid
+dishwasher tablets
+Automotive:
+air freshener
+windshield washer fluid
+engine oil

@@ -1,0 +1,9 @@
+Food:
+cheese
+butter
+Chemicals:
+washing liquid
+dishwasher tablets
+Automotive:
+windshield washer fluid
+air freshener
